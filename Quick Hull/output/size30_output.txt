@@ -1,0 +1,42 @@
+Final number of hull vertices are:14
+71.0,-29.0,-81.0
+61.0,72.0,20.0
+-4.0,0.0,43.0
+-2.0,-7.0,-10.0
+-2.0,44.0,91.0
+62.0,-34.0,45.0
+4.0,-21.0,71.0
+2.0,-88.0,-5.0
+23.0,78.0,-9.0
+56.0,49.0,49.0
+-3.0,10.0,66.0
+5.0,89.0,32.0
+47.0,17.0,-63.0
+7.0,10.0,-51.0
+
+
+Final number of hull faces are:24
+Face (A,B,C) =>	vertexA: 71.0,-29.0,-81.0		vertexB: 2.0,-88.0,-5.0		vertexC: 62.0,-34.0,45.0		
+Face (A,B,C) =>	vertexA: 71.0,-29.0,-81.0		vertexB: 2.0,-88.0,-5.0		vertexC: 7.0,10.0,-51.0		
+Face (A,B,C) =>	vertexA: -2.0,44.0,91.0		vertexB: 62.0,-34.0,45.0		vertexC: 4.0,-21.0,71.0		
+Face (A,B,C) =>	vertexA: 62.0,-34.0,45.0		vertexB: 2.0,-88.0,-5.0		vertexC: 4.0,-21.0,71.0		
+Face (A,B,C) =>	vertexA: 7.0,10.0,-51.0		vertexB: 2.0,-88.0,-5.0		vertexC: -2.0,-7.0,-10.0		
+Face (A,B,C) =>	vertexA: -2.0,44.0,91.0		vertexB: 4.0,-21.0,71.0		vertexC: -3.0,10.0,66.0		
+Face (A,B,C) =>	vertexA: 4.0,-21.0,71.0		vertexB: 2.0,-88.0,-5.0		vertexC: -3.0,10.0,66.0		
+Face (A,B,C) =>	vertexA: -2.0,-7.0,-10.0		vertexB: 2.0,-88.0,-5.0		vertexC: -4.0,0.0,43.0		
+Face (A,B,C) =>	vertexA: -3.0,10.0,66.0		vertexB: -2.0,44.0,91.0		vertexC: -4.0,0.0,43.0		
+Face (A,B,C) =>	vertexA: 2.0,-88.0,-5.0		vertexB: -3.0,10.0,66.0		vertexC: -4.0,0.0,43.0		
+Face (A,B,C) =>	vertexA: 71.0,-29.0,-81.0		vertexB: 62.0,-34.0,45.0		vertexC: 61.0,72.0,20.0		
+Face (A,B,C) =>	vertexA: 7.0,10.0,-51.0		vertexB: -2.0,-7.0,-10.0		vertexC: 5.0,89.0,32.0		
+Face (A,B,C) =>	vertexA: -2.0,-7.0,-10.0		vertexB: -4.0,0.0,43.0		vertexC: 5.0,89.0,32.0		
+Face (A,B,C) =>	vertexA: -4.0,0.0,43.0		vertexB: -2.0,44.0,91.0		vertexC: 5.0,89.0,32.0		
+Face (A,B,C) =>	vertexA: -2.0,44.0,91.0		vertexB: 61.0,72.0,20.0		vertexC: 5.0,89.0,32.0		
+Face (A,B,C) =>	vertexA: 7.0,10.0,-51.0		vertexB: 5.0,89.0,32.0		vertexC: 23.0,78.0,-9.0		
+Face (A,B,C) =>	vertexA: 5.0,89.0,32.0		vertexB: 61.0,72.0,20.0		vertexC: 23.0,78.0,-9.0		
+Face (A,B,C) =>	vertexA: 61.0,72.0,20.0		vertexB: 71.0,-29.0,-81.0		vertexC: 47.0,17.0,-63.0		
+Face (A,B,C) =>	vertexA: 23.0,78.0,-9.0		vertexB: 61.0,72.0,20.0		vertexC: 47.0,17.0,-63.0		
+Face (A,B,C) =>	vertexA: 71.0,-29.0,-81.0		vertexB: 7.0,10.0,-51.0		vertexC: 47.0,17.0,-63.0		
+Face (A,B,C) =>	vertexA: 7.0,10.0,-51.0		vertexB: 23.0,78.0,-9.0		vertexC: 47.0,17.0,-63.0		
+Face (A,B,C) =>	vertexA: 62.0,-34.0,45.0		vertexB: -2.0,44.0,91.0		vertexC: 56.0,49.0,49.0		
+Face (A,B,C) =>	vertexA: 61.0,72.0,20.0		vertexB: 62.0,-34.0,45.0		vertexC: 56.0,49.0,49.0		
+Face (A,B,C) =>	vertexA: -2.0,44.0,91.0		vertexB: 61.0,72.0,20.0		vertexC: 56.0,49.0,49.0		
